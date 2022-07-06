@@ -1,0 +1,44 @@
+body {
+  font-family: "Nanum Gothic", sans-serif;
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+h1 {
+  font-family: poppins;
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: capitalize;
+  background-image: linear-gradient();
+  color: #fff;
+}
+p {
+  font-size: 20px;
+  color: #fff;
+}
+.donate-button {
+  background-color: #ff5820;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 15px 20px 15px 20px;
+  border-radius: 8px;
+}
+.Text-property {
+  align-items: center;
+  text-align: center;
+}
+header {
+  height: 600px;
+  width: 100vw;
+  background: black;
+  overflow: hidden;
+
+  background: linear-gradient(rgba(29, 38, 113, 0.1), rgba(40, 36, 37, 0.6)),
+    url("images/bannerds.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+  object-fit: cover;
+}
