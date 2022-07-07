@@ -73,6 +73,9 @@ p {
   margin-left: 500px;
   width: 100%;
 }
+.donate-now {
+  justify-content: center;
+}
 .center-button {
   display: flex;
   justify-content: center;
