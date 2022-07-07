@@ -74,9 +74,8 @@ p {
   width: 100%;
 }
 .center-button {
-  margin: auto;
-  width: 10%;
   display: flex;
+  justify-content: center;
 }
 .plan-top-section {
   align-items: center;
