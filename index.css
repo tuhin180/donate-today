@@ -84,3 +84,28 @@ input {
   width: 10%;
   display: flex;
 }
+.plan-top-section {
+  align-items: center;
+  text-align: center;
+}
+
+.plan-top-section h1 {
+  font-size: 60px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.plan-top-section p {
+  font-size: 20px;
+}
+.plan-section {
+  display: flex;
+  margin-top: 50px;
+}
+.donation-section {
+  width: 30%;
+  margin-left: 5%;
+  margin-right: 3%;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: #f1f1f1;
+}
