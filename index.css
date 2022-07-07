@@ -119,6 +119,7 @@ p {
 .service {
   width: 35%;
   padding: 15px;
+  gap: 20px;
 }
 .service img {
   padding-top: 20px;
